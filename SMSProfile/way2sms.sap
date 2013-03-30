@@ -1,0 +1,14 @@
+http://api.p0wer.net/sms.php
+uid
+sandeepd
+pwd
+password
+msg
+balance
+
+changepw
+
+sendto
+;
+GSMSender
+CDMASender
